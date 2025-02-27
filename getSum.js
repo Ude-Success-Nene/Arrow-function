@@ -26,7 +26,7 @@ function calculator(a, b, operator){
     
        
 }
-console.log(calculator(6, 9, '*'))
+console.log(calculator(6, 9, '*')) 
 
  // Destructuring of objects
  const userObj = {
